@@ -1,0 +1,16 @@
+Usable Commands:
+1)hi
+2)how are you
+3)what is your name
+4)gender
+5)age
+6)talk
+7)date
+8)time
+9)joke
+10)pic
+11)bye
+
+under development:
+1)news
+2)song(url)
