@@ -1,4 +1,4 @@
-#Chatbot using Java GUI and swing
+# Chatbot using Java GUI and swing
 
 Description:This project is developed using java api and gui development packages.This project focuses around using the objects and methods of swing package(gui) and awt package to create a gui which can take commands and give suitable output as programmed. 
 
